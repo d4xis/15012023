@@ -1,6 +1,7 @@
 # Soubor Main.py
 import Insured
 
+#komentar od kolegy
 class Main():
     def __init__(self):
         self.insured_list = []
