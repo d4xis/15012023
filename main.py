@@ -50,7 +50,7 @@ class Main():
             elif option == 4:
                 break
             else:
-                print("Neplatná volba.")
+                print("Neplatná volba. Zkus znovu")
 
 if __name__ == "__main__":
     main = Main()
